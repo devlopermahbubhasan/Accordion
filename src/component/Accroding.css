@@ -1,0 +1,11 @@
+.mid{
+    border: 2px solid #aaa;
+    margin-top: 50px;
+    box-shadow: 3px 2px 5px 8px #aaa;
+    border-radius: 10px;
+    display: inline-block;
+    margin: auto;
+}
+.text{
+   margin-left: 5px;
+}

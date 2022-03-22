@@ -1,0 +1,12 @@
+.min{
+    cursor: pointer;
+    color: red;
+    font-size: 25px;
+    margin-right: 5px;
+}
+.add{
+    cursor: pointer;
+    color: green;
+    font-size: 25px;
+    margin-right: 5px;
+}
